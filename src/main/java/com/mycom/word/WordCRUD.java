@@ -1,5 +1,6 @@
 package com.mycom.word;
 
+import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -48,5 +49,21 @@ public class WordCRUD implements ICRUD{
     @Override
     public void selectOne(int id) {
 
+    }
+
+    /*
+     => 원하는 메뉴는? 1
+     --------------------------------
+      1 ***      superintendent    관리자, 감독관
+      2 **             electric    전기의, 전기를 생산하는
+
+     */
+    public void listAll() {
+        System.out.println("--------------------------------");
+        for(int i=0; i<list.size(); i++){
+            System.out.print(" " + (i+1) + " ");
+            System.out.println(list.get(i).toString());
+        }
+        System.out.println("--------------------------------");
     }
 }

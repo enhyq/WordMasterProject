@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97f8b8e2-a4e9-456b-a81f-ff5e5e0fffbe" name="Changes" comment="Create Class and Interface files">
+    <list default="true" id="97f8b8e2-a4e9-456b-a81f-ff5e5e0fffbe" name="Changes" comment="Implement add word system">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
     </list>
@@ -54,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662188350752</updated>
-      <workItem from="1662188354009" duration="2321000" />
+      <workItem from="1662188354009" duration="2954000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <created>1662188853750</created>
@@ -70,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662189294534</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Implement add word system">
+      <created>1662194299230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662194299230</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +98,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create project" />
     <MESSAGE value="Create Class and Interface files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Class and Interface files" />
+    <MESSAGE value="Implement add word system" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement add word system" />
   </component>
 </project>
