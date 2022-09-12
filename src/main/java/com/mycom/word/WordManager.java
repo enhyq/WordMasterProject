@@ -43,6 +43,8 @@ public class WordManager {
         return s.nextInt();
     }
     public void start() {
+        wordCRUD.loadFile();
+
         System.out.println("*** 영단어 마스터 ***\n");
         while(true){
             int menu = selectMenu();
