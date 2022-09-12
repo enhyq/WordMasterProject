@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97f8b8e2-a4e9-456b-a81f-ff5e5e0fffbe" name="Changes" comment="Create Dictionary.txt">
+    <list default="true" id="97f8b8e2-a4e9-456b-a81f-ff5e5e0fffbe" name="Changes" comment="Add more words to Dictionary.txt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
     </list>
@@ -56,7 +58,7 @@
       <updated>1662188350752</updated>
       <workItem from="1662188354009" duration="4272000" />
       <workItem from="1662430805171" duration="1030000" />
-      <workItem from="1662965934795" duration="2949000" />
+      <workItem from="1662965934795" duration="3853000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <created>1662188853750</created>
@@ -107,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662978104235</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add load data from file function">
+      <created>1662978534846</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662978534846</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add more words to Dictionary.txt">
+      <created>1662979025559</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662979025559</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +148,8 @@
     <MESSAGE value="Fix string formats" />
     <MESSAGE value="Add word update and delete function" />
     <MESSAGE value="Create Dictionary.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Dictionary.txt" />
+    <MESSAGE value="Add load data from file function" />
+    <MESSAGE value="Add more words to Dictionary.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add more words to Dictionary.txt" />
   </component>
 </project>
