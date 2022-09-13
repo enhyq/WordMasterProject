@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97f8b8e2-a4e9-456b-a81f-ff5e5e0fffbe" name="Changes" comment="Implement search by level function">
-      <change beforePath="$PROJECT_DIR$/Dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
+    <list default="true" id="97f8b8e2-a4e9-456b-a81f-ff5e5e0fffbe" name="Changes" comment="Implement search word function">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
       <updated>1662188350752</updated>
       <workItem from="1662188354009" duration="4272000" />
       <workItem from="1662430805171" duration="1030000" />
-      <workItem from="1662965934795" duration="4274000" />
+      <workItem from="1662965934795" duration="4684000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <created>1662188853750</created>
@@ -135,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662979768248</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Edit dictionary list">
+      <created>1662980013708</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662980013708</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Implement search word function">
+      <created>1662980030210</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662980030210</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +176,8 @@
     <MESSAGE value="Add more words to Dictionary.txt" />
     <MESSAGE value="Implement Read and Save file function" />
     <MESSAGE value="Implement search by level function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement search by level function" />
+    <MESSAGE value="Edit dictionary list" />
+    <MESSAGE value="Implement search word function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement search word function" />
   </component>
 </project>
