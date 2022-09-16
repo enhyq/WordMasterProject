@@ -8,7 +8,7 @@ PP1: project1
 ### 메뉴 1 - 단어 목록 표시하기
 <img src="https://github.com/enhyq/WordMasterProject/blob/master/screenshots/screenshot_menu1.png?raw=true" width="500">
 
-### 메뉴 1 - 단어 목록 표시하기2 (읽은 파일에 저장된 단어 표시)
+### 메뉴 1 - 단어 목록 표시하기2 (단어 파일 불러오기)
 <img src="https://github.com/enhyq/WordMasterProject/blob/master/screenshots/screenshot_menu1_2.png?raw=true" width="500">
 
 ### 메뉴 2 - 수준별 단어 보기
