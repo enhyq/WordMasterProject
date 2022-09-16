@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97f8b8e2-a4e9-456b-a81f-ff5e5e0fffbe" name="Changes" comment="Implement search word function">
+    <list default="true" id="97f8b8e2-a4e9-456b-a81f-ff5e5e0fffbe" name="Changes" comment="Change screenshot folder name to screenshots">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       <updated>1662188350752</updated>
       <workItem from="1662188354009" duration="4272000" />
       <workItem from="1662430805171" duration="1030000" />
-      <workItem from="1662965934795" duration="4684000" />
+      <workItem from="1662965934795" duration="6356000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <created>1662188853750</created>
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662980030210</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Change screenshot folder name to screenshots">
+      <created>1663034626644</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663034626644</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +185,7 @@
     <MESSAGE value="Implement search by level function" />
     <MESSAGE value="Edit dictionary list" />
     <MESSAGE value="Implement search word function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement search word function" />
+    <MESSAGE value="Change screenshot folder name to screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change screenshot folder name to screenshots" />
   </component>
 </project>
