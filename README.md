@@ -17,9 +17,6 @@ PP1: project1
 ### 메뉴 3 - 단어 검색
 <img src="https://github.com/enhyq/WordMasterProject/blob/master/screenshots/screenshot_menu3.png?raw=true" width="500">
 
-### 메뉴 3 - 단어 검색
-<img src="https://github.com/enhyq/WordMasterProject/blob/master/screenshots/screenshot_menu3.png?raw=true" width="500">
-
 ### 메뉴 4 - 단어 추가하기
 <img src="https://github.com/enhyq/WordMasterProject/blob/master/screenshots/screenshot_menu4.png?raw=true" width="500">
 
